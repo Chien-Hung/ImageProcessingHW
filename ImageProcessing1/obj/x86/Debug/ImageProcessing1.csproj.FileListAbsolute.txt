@@ -1,0 +1,180 @@
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\bin\Debug\ImageProcessing1.exe
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\bin\Debug\ImageProcessing1.pdb
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.MainForm.resources
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.StartPicture.resources
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing1.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing1.exe
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing1.pdb
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.HeaderImformationForm.resources
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.ScalingForm.resources
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.ThreePictureForm.resources
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.histogramForm.resources
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.CDFForm.resources
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.TransferFunctionForm.resources
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.bitPlaneSlicingForm.resources
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.ManualSettingForm.resources
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.FilterForm.resources
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.thresholdForm.resources
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.PixelDataForm.resources
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.FractalAnalysisForm.resources
+D:\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing1.exe
+D:\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing1.pdb
+D:\ImageProcessing\ImageProcessing1\bin\Debug\ImageProcessing1.exe
+D:\ImageProcessing\ImageProcessing1\bin\Debug\ImageProcessing1.pdb
+D:\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing1.csprojResolveAssemblyReference.cache
+D:\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.bitPlaneSlicingForm.resources
+D:\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.CDFForm.resources
+D:\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.FilterForm.resources
+D:\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.FractalAnalysisForm.resources
+D:\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.HeaderImformationForm.resources
+D:\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.histogramForm.resources
+D:\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.ManualSettingForm.resources
+D:\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.PixelDataForm.resources
+D:\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.thresholdForm.resources
+D:\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.TransferFunctionForm.resources
+D:\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.MainForm.resources
+D:\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.ScalingForm.resources
+D:\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.StartPicture.resources
+D:\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.Properties.Resources.resources
+D:\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.ThreePictureForm.resources
+D:\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing1.csproj.GenerateResource.Cache
+D:\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.VideoCompressionForm.resources
+D:\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.MovingBall.resources
+D:\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.histMatchForm.resources
+D:\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.JpegForm.resources
+D:\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.YCrCbForm.resources
+D:\ImageProcessing\ImageProcessing1\bin\Debug\ImageProcessing1.exe.manifest
+D:\ImageProcessing\ImageProcessing1\bin\Debug\ImageProcessing1.application
+D:\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing1.exe.manifest
+D:\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing1.application
+D:\ImageProcessing\ImageProcessing1\obj\x86\Debug\ImageProcessing.DCTFilterForm.resources
+C:\Users\adm\Desktop\課業\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing1.exe
+C:\Users\adm\Desktop\課業\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing1.pdb
+C:\Users\adm\Desktop\課業\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing1.csprojResolveAssemblyReference.cache
+C:\Users\adm\Desktop\課業\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.bitPlaneSlicingForm.resources
+C:\Users\adm\Desktop\課業\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.CDFForm.resources
+C:\Users\adm\Desktop\課業\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.DCTFilterForm.resources
+C:\Users\adm\Desktop\課業\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.FilterForm.resources
+C:\Users\adm\Desktop\課業\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.FractalAnalysisForm.resources
+C:\Users\adm\Desktop\課業\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.HeaderImformationForm.resources
+C:\Users\adm\Desktop\課業\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.histMatchForm.resources
+C:\Users\adm\Desktop\課業\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.histogramForm.resources
+C:\Users\adm\Desktop\課業\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.JpegForm.resources
+C:\Users\adm\Desktop\課業\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.ManualSettingForm.resources
+C:\Users\adm\Desktop\課業\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.MovingBall.resources
+C:\Users\adm\Desktop\課業\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.PixelDataForm.resources
+C:\Users\adm\Desktop\課業\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.thresholdForm.resources
+C:\Users\adm\Desktop\課業\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.TransferFunctionForm.resources
+C:\Users\adm\Desktop\課業\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.MainForm.resources
+C:\Users\adm\Desktop\課業\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.ScalingForm.resources
+C:\Users\adm\Desktop\課業\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.StartPicture.resources
+C:\Users\adm\Desktop\課業\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\adm\Desktop\課業\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.ThreePictureForm.resources
+C:\Users\adm\Desktop\課業\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.YCrCbForm.resources
+C:\Users\adm\Desktop\課業\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing1.csproj.GenerateResource.Cache
+C:\Users\adm\Desktop\課業\Digital Image Processing\新增資料夾\ImageProcessing1\bin\Debug\ImageProcessing1.exe.manifest
+C:\Users\adm\Desktop\課業\Digital Image Processing\新增資料夾\ImageProcessing1\bin\Debug\ImageProcessing1.application
+C:\Users\adm\Desktop\課業\Digital Image Processing\新增資料夾\ImageProcessing1\bin\Debug\ImageProcessing1.exe
+C:\Users\adm\Desktop\課業\Digital Image Processing\新增資料夾\ImageProcessing1\bin\Debug\ImageProcessing1.pdb
+C:\Users\adm\Desktop\課業\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing1.exe.manifest
+C:\Users\adm\Desktop\課業\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing1.application
+C:\Users\adm\Desktop\課業\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.VideoAnalysisForm.resources
+C:\Users\adm\Desktop\課業\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.CompressForm.resources
+C:\Users\adm\Desktop\課業\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.AskForm.resources
+D:\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing1.exe
+D:\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing1.pdb
+D:\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\bin\Debug\ImageProcessing1.exe.manifest
+D:\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\bin\Debug\ImageProcessing1.application
+D:\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\bin\Debug\ImageProcessing1.exe
+D:\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\bin\Debug\ImageProcessing1.pdb
+D:\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing1.csprojResolveAssemblyReference.cache
+D:\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.AskForm.resources
+D:\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.bitPlaneSlicingForm.resources
+D:\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.CDFForm.resources
+D:\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.CompressForm.resources
+D:\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.DCTFilterForm.resources
+D:\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.FilterForm.resources
+D:\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.FractalAnalysisForm.resources
+D:\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.HeaderImformationForm.resources
+D:\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.histMatchForm.resources
+D:\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.histogramForm.resources
+D:\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.JpegForm.resources
+D:\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.ManualSettingForm.resources
+D:\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.MovingBall.resources
+D:\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.PixelDataForm.resources
+D:\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.thresholdForm.resources
+D:\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.TransferFunctionForm.resources
+D:\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.MainForm.resources
+D:\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.ScalingForm.resources
+D:\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.StartPicture.resources
+D:\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.Properties.Resources.resources
+D:\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.ThreePictureForm.resources
+D:\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.VideoAnalysisForm.resources
+D:\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.YCrCbForm.resources
+D:\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing1.csproj.GenerateResource.Cache
+D:\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing1.exe.manifest
+D:\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing1.application
+E:\碩士電腦\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing1.csprojResolveAssemblyReference.cache
+E:\碩士電腦\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.AskForm.resources
+E:\碩士電腦\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.bitPlaneSlicingForm.resources
+E:\碩士電腦\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.CDFForm.resources
+E:\碩士電腦\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.CompressForm.resources
+E:\碩士電腦\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.DCTFilterForm.resources
+E:\碩士電腦\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.FilterForm.resources
+E:\碩士電腦\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.FractalAnalysisForm.resources
+E:\碩士電腦\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.HeaderImformationForm.resources
+E:\碩士電腦\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.histMatchForm.resources
+E:\碩士電腦\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.histogramForm.resources
+E:\碩士電腦\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.JpegForm.resources
+E:\碩士電腦\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.ManualSettingForm.resources
+E:\碩士電腦\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.MovingBall.resources
+E:\碩士電腦\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.PixelDataForm.resources
+E:\碩士電腦\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.thresholdForm.resources
+E:\碩士電腦\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.TransferFunctionForm.resources
+E:\碩士電腦\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.MainForm.resources
+E:\碩士電腦\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.ScalingForm.resources
+E:\碩士電腦\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.StartPicture.resources
+E:\碩士電腦\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.Properties.Resources.resources
+E:\碩士電腦\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.ThreePictureForm.resources
+E:\碩士電腦\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.VideoAnalysisForm.resources
+E:\碩士電腦\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.YCrCbForm.resources
+E:\碩士電腦\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing1.csproj.GenerateResource.Cache
+E:\碩士電腦\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing1.csproj.CoreCompileInputs.cache
+E:\碩士電腦\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing1.exe
+E:\碩士電腦\Andy\SchoolWork\Digital Image Processing\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing1.pdb
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.AskForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.bitPlaneSlicingForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.CDFForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.CompressForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.DCTFilterForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.FilterForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.FractalAnalysisForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.HeaderImformationForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.histMatchForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.histogramForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.JpegForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.ManualSettingForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.MovingBall.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.PixelDataForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.thresholdForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.TransferFunctionForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.MainForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.ScalingForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.StartPicture.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.ThreePictureForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.VideoAnalysisForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing.YCrCbForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing1.csproj.GenerateResource.cache
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing1.csproj.CoreCompileInputs.cache
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing1.exe
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing1.pdb
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\bin\Debug\ImageProcessing1.exe.manifest
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\bin\Debug\ImageProcessing1.application
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\bin\Debug\ImageProcessing1.exe
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\bin\Debug\ImageProcessing1.pdb
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing1.exe.manifest
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing1.application
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Debug\ImageProcessing1.csprojAssemblyReference.cache

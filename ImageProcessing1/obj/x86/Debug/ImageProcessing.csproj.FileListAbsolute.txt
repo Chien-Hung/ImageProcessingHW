@@ -1,0 +1,8 @@
+C:\Users\user\AppData\Local\Temporary Projects\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Users\user\AppData\Local\Temporary Projects\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\user\AppData\Local\Temporary Projects\ImageProcessing\obj\x86\Debug\ImageProcessing.StartPicture.resources
+C:\Users\user\AppData\Local\Temporary Projects\ImageProcessing\obj\x86\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\ImageProcessing\obj\x86\Debug\ImageProcessing.csproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\ImageProcessing\obj\x86\Debug\ImageProcessing.exe
+C:\Users\user\AppData\Local\Temporary Projects\ImageProcessing\obj\x86\Debug\ImageProcessing.pdb
+C:\Users\user\AppData\Local\Temporary Projects\ImageProcessing\obj\x86\Debug\ImageProcessing.MainForm.resources

@@ -1,0 +1,52 @@
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\bin\Release\ImageProcessing1.exe
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\bin\Release\ImageProcessing1.pdb
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Release\ImageProcessing.bitPlaneSlicingForm.resources
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Release\ImageProcessing.CDFForm.resources
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Release\ImageProcessing.FilterForm.resources
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Release\ImageProcessing.HeaderImformationForm.resources
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Release\ImageProcessing.histogramForm.resources
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Release\ImageProcessing.ManualSettingForm.resources
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Release\ImageProcessing.thresholdForm.resources
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Release\ImageProcessing.TransferFunctionForm.resources
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Release\ImageProcessing.MainForm.resources
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Release\ImageProcessing.ScalingForm.resources
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Release\ImageProcessing.StartPicture.resources
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Release\ImageProcessing.Properties.Resources.resources
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Release\ImageProcessing.ThreePictureForm.resources
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Release\ImageProcessing1.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Release\ImageProcessing1.exe
+C:\Users\user\Desktop\ImageProcessing\ImageProcessing\ImageProcessing1\obj\x86\Release\ImageProcessing1.pdb
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\bin\Release\ImageProcessing1.exe.manifest
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\bin\Release\ImageProcessing1.application
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\bin\Release\ImageProcessing1.exe
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\bin\Release\ImageProcessing1.pdb
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Release\ImageProcessing1.csprojAssemblyReference.cache
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Release\ImageProcessing.AskForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Release\ImageProcessing.bitPlaneSlicingForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Release\ImageProcessing.CDFForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Release\ImageProcessing.CompressForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Release\ImageProcessing.DCTFilterForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Release\ImageProcessing.FilterForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Release\ImageProcessing.FractalAnalysisForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Release\ImageProcessing.HeaderImformationForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Release\ImageProcessing.histMatchForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Release\ImageProcessing.histogramForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Release\ImageProcessing.JpegForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Release\ImageProcessing.ManualSettingForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Release\ImageProcessing.MovingBall.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Release\ImageProcessing.PixelDataForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Release\ImageProcessing.thresholdForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Release\ImageProcessing.TransferFunctionForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Release\ImageProcessing.MainForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Release\ImageProcessing.ScalingForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Release\ImageProcessing.StartPicture.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Release\ImageProcessing.Properties.Resources.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Release\ImageProcessing.ThreePictureForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Release\ImageProcessing.VideoAnalysisForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Release\ImageProcessing.YCrCbForm.resources
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Release\ImageProcessing1.csproj.GenerateResource.cache
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Release\ImageProcessing1.csproj.CoreCompileInputs.cache
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Release\ImageProcessing1.exe.manifest
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Release\ImageProcessing1.application
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Release\ImageProcessing1.exe
+C:\Users\iis\Desktop\hung\ai 嘉年華\IP\新增資料夾\ImageProcessing1\obj\x86\Release\ImageProcessing1.pdb
