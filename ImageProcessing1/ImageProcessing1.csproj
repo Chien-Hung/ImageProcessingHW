@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F3477133-9949-44E5-9424-38DA22F3A64C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ImageProcessing</RootNamespace>
+    <AssemblyName>ImageProcessing1</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\adm\Desktop\Image %282%29\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>48AF5813D275189FA39F3FBA9DDC38AD676D15D4</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>ImageProcessing1_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AskForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AskForm.Designer.cs">
+      <DependentUpon>AskForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bitPlaneSlicingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bitPlaneSlicingForm.Designer.cs">
+      <DependentUpon>bitPlaneSlicingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bmpheader.cs" />
+    <Compile Include="CDFForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CDFForm.Designer.cs">
+      <DependentUpon>CDFForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CompressForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompressForm.Designer.cs">
+      <DependentUpon>CompressForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DCTFilterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DCTFilterForm.Designer.cs">
+      <DependentUpon>DCTFilterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="equaltable.cs" />
+    <Compile Include="FilterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FilterForm.Designer.cs">
+      <DependentUpon>FilterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FractalAnalysisForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FractalAnalysisForm.Designer.cs">
+      <DependentUpon>FractalAnalysisForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FractalDataNode.cs" />
+    <Compile Include="HeaderImformationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HeaderImformationForm.Designer.cs">
+      <DependentUpon>HeaderImformationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="histMatchForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="histMatchForm.Designer.cs">
+      <DependentUpon>histMatchForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="histogramForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="histogramForm.Designer.cs">
+      <DependentUpon>histogramForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="huffmanNode.cs" />
+    <Compile Include="JpegForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JpegForm.Designer.cs">
+      <DependentUpon>JpegForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManualSettingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManualSettingForm.Designer.cs">
+      <DependentUpon>ManualSettingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MovingBall.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MovingBall.Designer.cs">
+      <DependentUpon>MovingBall.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PixelDataForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PixelDataForm.Designer.cs">
+      <DependentUpon>PixelDataForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="thresholdForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="thresholdForm.Designer.cs">
+      <DependentUpon>thresholdForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TransferFunctionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TransferFunctionForm.Designer.cs">
+      <DependentUpon>TransferFunctionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ScalingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ScalingForm.Designer.cs">
+      <DependentUpon>ScalingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StartPictureForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StartPictureForm.Designer.cs">
+      <DependentUpon>StartPictureForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ThreePictureForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThreePictureForm.Designer.cs">
+      <DependentUpon>ThreePictureForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VideoAnalysisForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VideoAnalysisForm.Designer.cs">
+      <DependentUpon>VideoAnalysisForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YCrCbForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YCrCbForm.Designer.cs">
+      <DependentUpon>YCrCbForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AskForm.resx">
+      <DependentUpon>AskForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bitPlaneSlicingForm.resx">
+      <DependentUpon>bitPlaneSlicingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CDFForm.resx">
+      <DependentUpon>CDFForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CompressForm.resx">
+      <DependentUpon>CompressForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DCTFilterForm.resx">
+      <DependentUpon>DCTFilterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FilterForm.resx">
+      <DependentUpon>FilterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FractalAnalysisForm.resx">
+      <DependentUpon>FractalAnalysisForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeaderImformationForm.resx">
+      <DependentUpon>HeaderImformationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="histMatchForm.resx">
+      <DependentUpon>histMatchForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="histogramForm.resx">
+      <DependentUpon>histogramForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JpegForm.resx">
+      <DependentUpon>JpegForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManualSettingForm.resx">
+      <DependentUpon>ManualSettingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MovingBall.resx">
+      <DependentUpon>MovingBall.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PixelDataForm.resx">
+      <DependentUpon>PixelDataForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="thresholdForm.resx">
+      <DependentUpon>thresholdForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TransferFunctionForm.resx">
+      <DependentUpon>TransferFunctionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScalingForm.resx">
+      <DependentUpon>ScalingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StartPictureForm.resx">
+      <DependentUpon>StartPictureForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThreePictureForm.resx">
+      <DependentUpon>ThreePictureForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VideoAnalysisForm.resx">
+      <DependentUpon>VideoAnalysisForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YCrCbForm.resx">
+      <DependentUpon>YCrCbForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ImageProcessing1_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\example_image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circleright32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\floppy_disk-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Very Basic opened folder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\宇宙兄弟.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\宇宙兄弟1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OpenFile.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11-30-minimalist-icon-sets.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rgb.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\demoSpe.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_button-icon.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GrayCode.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gradient.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\test2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CCL.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fisher256.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lena256.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tree.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pause.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor3.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
