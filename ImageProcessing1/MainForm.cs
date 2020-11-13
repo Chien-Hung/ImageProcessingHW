@@ -1421,7 +1421,7 @@ namespace ImageProcessing
             bmpN = (Bitmap)pictureBox1.Image.Clone();
             pixelDataCaculate(bmpN);
             Rectangle rect = new Rectangle(0, 0, bmpN.Width, bmpN.Height);
-            BitmapData bmpd = bmpN.LockBits(rect, ImageLockMode.ReadOnly, PixelFormat.Format24bppRgb);
+            BitmapData bmpd = bmpN.LockBits(rect, ImageLockMode.ReadWrite, PixelFormat.Format24bppRgb);
 
             int offset = bmpd.Stride - bmpN.Width * 3;
             int threshold;
